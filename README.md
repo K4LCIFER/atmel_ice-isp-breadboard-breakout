@@ -7,17 +7,16 @@ The purpose of this device is to facilitate the connection between an
 [Atmel-ICE](https://www.microchip.com/DevelopmentTools/ProductDetails/atatmel-ice)
 programmer and a breadboard.
 
-<!--<details> <summary>Click here to see more pictures</summary>
+![render-bottom](./README-resources/render-bottom.png)
+![render-top](./README-resources/render-top.png)
 
-![breakout](./README-resources/breakout.jpeg)
+<details> <summary>Click here to see more pictures</summary>
 
-![breakout_connected_to_atmel_ice](./README-resources/breakout_connected_to_atmel_ice-angle.jpeg)
+<img src="./README-resources/breakout.jpeg" />
 
-![breakout_connected_to_breadboard](./README-resources/breakout_connected_to_breadboard.jpeg)
+<img src="./README-resources/breakout_connected_to_atmel_ice-angle.jpeg" />
 
-</details>--> <!-- This section does not work the same as below.-->
+<img src="./README-resources/breakout_connected_to_breadboard.jpeg" />
 
-![breakout](./README-resources/breakout.jpeg)
-![breakout_connected_to_atmel_ice](./README-resources/breakout_connected_to_atmel_ice-angle.jpeg)
-![breakout_connected_to_breadboard](./README-resources/breakout_connected_to_breadboard.jpeg)
+</details><!-- Perhaps I should do away with this section. -->
 
